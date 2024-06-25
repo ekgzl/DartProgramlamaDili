@@ -103,7 +103,3 @@ Son bölüm, Dart'taki asenkron programlamayı ele alır:
 Her klasörde kod örnekleri ve açıklamalar bulunmaktadır. Sorularınız veya önerileriniz varsa, lütfen bir issue açın veya bir pull request gönderin.
 
 İyi kodlamalar!
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
